@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jessica Salgado
 
-<!--
-**jess-salgado/jess-salgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst based in Chicago, IL. B.S. Computer Science (Data Science, Cum Laude) — Northeastern Illinois University.
 
-Here are some ideas to get you started:
+I specialize in competitive analysis, dashboard development, and translating business questions into data-driven insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Skills
+- Languages: Python, SQL, R, Java
+- Visualization: Tableau, Power BI
+- Other: Excel, SAP, Git
+
+## Projects
+- ShelfScout — Relational database system for tracking reading history and bookstore availability (SQL, Python, Java)
+
+## Connect
+- LinkedIn: linkedin.com/in/jessica-salgado-933964191
+- Email: jmsalgado1@gmail.com
