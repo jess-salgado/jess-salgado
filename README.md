@@ -11,7 +11,8 @@ I specialize in competitive analysis, dashboard development, and translating bus
 
 ## Projects
 - ShelfScout — Relational database system for tracking reading history and bookstore availability (SQL, Python, Java)
-
+- Data Analysis Projects — K-Means clustering on Chicago TIF district financial data and linear regression on the Palmer Penguins dataset (Python, pandas, scikit-learn)
+  
 ## Connect
 - LinkedIn: linkedin.com/in/jessica-salgado-933964191
 - Email: jmsalgado1@gmail.com
